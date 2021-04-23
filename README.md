@@ -1,6 +1,6 @@
 # Binacne Smart Chain(BSC) scan bot
 This app can do the following:
-- Do web scraping to the BSC scan website and search for the projecct page.
+- Do web scraping to the [BSC scan](https://bscscan.com/) website and search for the projecct page.
 - Take the contract address of the project.
 - Send it to you in a telegram message.
 
