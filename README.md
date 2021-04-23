@@ -1,3 +1,4 @@
+![](https://github.com/ahmadmardeni1/BSC-scan-bot/blob/main/BscScan%20bot.png)
 # Binacne Smart Chain(BSC) scan bot
 This app can do the following:
 - Do web scraping to the [BSC scan](https://bscscan.com/) website and search for the projecct page.
