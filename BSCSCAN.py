@@ -14,7 +14,7 @@ headers = {"User-Agent": 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/
 
 contract = []
 def CheckAddress():
-    
+    y = []
     for url in URL_LIST:
         page = requests.get(url,headers=headers)
         soup = BeautifulSoup(page.content, 'html.parser')
@@ -41,5 +41,8 @@ def CheckAddress():
                 
         except:
             continue
-        
+            
+      if not y:
+            CheckAddress()
+            
 CheckAddress()
