@@ -6,9 +6,9 @@ This app can do the following:
 - Send it to you in a telegram message.
 
 ## How it works?
-- Change {PROJECT_NAME} to the name of the crypto project you want.
-- Change {API_TOKEN} to your telegram bot token.
-- Change {CHAT_ID} to you telegram chat id.
+- Change "PROJECT_NAME" to the name of the crypto project you want.
+- Change TOKEN to your telegram bot token.
+- Change "CHAT_IDS" to you telegram chat id. (Add as many you want)
 
 ## Why to use this bot?
 There are a lot of cases when you want to buy a new crypto in the best price you can using pancakeswap. But you know there will be a lot of people trying to buy that token in the same time and the price will go crazy. This bot will send you the contract address and give you the priority of buying before they publish it officialy to the public.
